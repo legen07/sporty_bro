@@ -1,0 +1,14 @@
+2026/01/10-00:08:08.844 1147f Reusing MANIFEST /home/joe/Dev/sporty_bro/chromium/Default/IndexedDB/https_www.sportybet.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/10-00:08:08.845 1147f Recovering log #42
+2026/01/10-00:08:08.845 1147f Reusing old log /home/joe/Dev/sporty_bro/chromium/Default/IndexedDB/https_www.sportybet.com_0.indexeddb.leveldb/000042.log 
+2026/01/10-00:08:08.845 1147f Delete type=2 #40
+2026/01/10-00:08:08.949 11488 Level-0 table #47: started
+2026/01/10-00:08:08.952 11488 Level-0 table #47: 1420 bytes OK
+2026/01/10-00:08:08.957 11488 Delete type=0 #42
+2026/01/10-00:08:08.960 1147d Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 2796 : 1
+2026/01/10-00:08:08.960 1147d Compacting 1@0 + 1@1 files
+2026/01/10-00:08:08.966 1147d Generated table #48@0: 442 keys, 18346 bytes
+2026/01/10-00:08:08.966 1147d Compacted 1@0 + 1@1 files => 18346 bytes
+2026/01/10-00:08:08.971 1147d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/10-00:08:08.971 1147d Delete type=2 #47
+2026/01/10-00:08:08.979 11488 Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 2796 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)

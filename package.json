@@ -1,0 +1,15 @@
+{
+  "name": "sporty_bro",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Joe Legen",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "dependencies": {
+    "playwright": "^1.57.0"
+  }
+}
